@@ -1,2 +1,2 @@
 # Tank-Battle
-python
+python3+pygame
